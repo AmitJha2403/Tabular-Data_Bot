@@ -17,8 +17,9 @@ Follow these steps to get started with the Box Office Data Explorer:
 
 1. Clone this repository to your local machine:
 
+```bash
 git clone <repository_url>
-
+```
 
 2. Navigate to the project directory:
 
