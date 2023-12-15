@@ -76,9 +76,9 @@ All dependencies are listed in the `requirements.txt` file and can be installed 
 
 To configure the application, you need to set up an environment variable for your OpenAI API key. Create a `.env` file in the project directory and add the following line:
 
+'''python
+OPENAI_API_KEY=your_api_key_here
+'''
 
 Replace `your_api_key_here` with your actual OpenAI API key.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
