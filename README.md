@@ -18,13 +18,13 @@ Follow these steps to get started with the Box Office Data Explorer:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/AmitJha2403/LongShort-AI-Assignment.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd <project_directory>
+cd LongShot_AI_Assignment
 ```
 
 
