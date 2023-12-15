@@ -17,17 +17,27 @@ Follow these steps to get started with the Box Office Data Explorer:
 
 1. Clone this repository to your local machine:
 
+git clone <repository_url>
+
 
 2. Navigate to the project directory:
+
+cd <project_directory>
 
 
 3. Install the required dependencies:
 
+pip install -r requirements.txt
+
 
 4. Create a `.env` file in the project directory and add your OpenAI API key:
 
+OPENAI_API_KEY=your_api_key_here
+
 
 5. Run the Streamlit app:
+
+streamlit run main.py
 
 
 6. The app should now be running locally. Open a web browser and navigate to the URL provided by Streamlit to interact with the application.
