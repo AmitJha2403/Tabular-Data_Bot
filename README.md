@@ -23,23 +23,25 @@ git clone <repository_url>
 
 2. Navigate to the project directory:
 
+```bash
 cd <project_directory>
+```
 
 
 3. Install the required dependencies:
-
+```bash
 pip install -r requirements.txt
-
+```
 
 4. Create a `.env` file in the project directory and add your OpenAI API key:
-
+```bash
 OPENAI_API_KEY=your_api_key_here
-
+```
 
 5. Run the Streamlit app:
-
+```bash
 streamlit run main.py
-
+```
 
 6. The app should now be running locally. Open a web browser and navigate to the URL provided by Streamlit to interact with the application.
 
@@ -86,8 +88,9 @@ All dependencies are listed in the `requirements.txt` file and can be installed 
 ## Configuration
 
 To configure the application, you need to set up an environment variable for your OpenAI API key. Create a `.env` file in the project directory and add the following line:
-
+```bash
 OPENAI_API_KEY=your_api_key_here
+```
 
 Replace `your_api_key_here` with your actual OpenAI API key.
 
