@@ -23,13 +23,13 @@ Follow these steps to get started with the Box Office Data Explorer:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/AmitJha2403/LongShot_AI_Assignment.git
+https://github.com/AmitJha2403/Tabular-Data_Bot.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd LongShot_AI_Assignment
+cd Tabular-Data_Bot
 ```
 
 
